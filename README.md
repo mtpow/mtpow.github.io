@@ -39,9 +39,8 @@
 						Now I'm in school for Computer Science at Southern New Hampshire University, I would like to learn
 						more about lower level languages, design patterns and object orientated programming. 
 						<br><br>
-						I enjoy learning new things and utilizing them. I am currently hosting a minecraft community
-						at <a href="http://salvossmp.com">www.SalvosSMP.com</a> where I'm managing the server and
-						editing plugins to tailor the game to foster a community that I'd want to be apart of.
+						I'm currently hosting a VPS at <a href="ghoulz.net">Ghoulz.net</a>. I'd eventually want to grow
+						this into a community.
 						<br><br>
 						You can view some of my projects on my Github or look below for some choice ones I've selected
 						to show off. 
