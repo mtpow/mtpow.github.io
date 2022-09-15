@@ -39,7 +39,7 @@
 						Now I'm in school for Computer Science at Southern New Hampshire University, I would like to learn
 						more about lower level languages, design patterns and object orientated programming. 
 						<br><br>
-						I'm currently hosting a VPS at <a href="ghoulz.net">Ghoulz.net</a>. I'd eventually want to grow
+						I'm currently hosting a VPS at <a href="http://www.ghoulz.net">Ghoulz.net</a>. I'd eventually want to grow
 						this into a community.
 						<br><br>
 						You can view some of my projects on my Github or look below for some choice ones I've selected
